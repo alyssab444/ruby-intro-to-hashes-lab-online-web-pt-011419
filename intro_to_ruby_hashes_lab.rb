@@ -1,5 +1,5 @@
 def new_hash
-hash = {apple: "delicious fruit"}
+hash = {}
 end
 
 def actor
